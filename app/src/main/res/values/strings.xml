@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoyaShare</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="e_mail">e_mail</string>
+    <string name="mdp">Mot de Passe</string>
+
+</resources>
